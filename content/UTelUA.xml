@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gate>
-	<name>UtelUA</name>
-	<caption>U-Tel Украина</caption>
+	<name>3Mob</name>
+	<caption>ТриМоб</caption>
 	<type>SMS</type>
 	<class>HTTP</class>
 	<version>3</version>
